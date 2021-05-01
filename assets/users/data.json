@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1001,
+    "phoneNumber": "9200450017",
+    "username": "abhishek",
+    "password": "$2b$10$mylUmBaLh1QRQgqxtIlYyOsFmohZwcAsxjv2CtUWy/188XsQyZEka"
+  },
+  {
+    "id": 1002,
+    "phoneNumber": "9400860026",
+    "username": "chaitanya",
+    "password": "$2b$10$VLadHtHaEB.EHPq5n9vn/.eGSYTxvpTp8KRGKW/2kwke.UDXhHF4m"
+  },
+  {
+    "id": 1003,
+    "phoneNumber": "6000000000",
+    "username": "anirban",
+    "password": "$2b$10$CrSlURQjdLZBXuA3uRWZzuLHu51b3L9P7ym6pJ4mGHyiLYXL.blwO"
+  },
+  {
+    "id": 1004,
+    "phoneNumber": "6000000001",
+    "username": "chandransh",
+    "password": "$2b$10$CrWJJ1Vkuu5KkYrSqOj7dOYndgbg4kUPcCrXO4hBmhQIjwGoEfz.2"
+  },
+  {
+    "id": 1005,
+    "phoneNumber": "9876543252",
+    "username": "jahnavi",
+    "password": "$2b$10$Jcu/xqVNFTsN2q1NzJMbnOQmI3smz7ACzQ9JrjorSO1NKiHnpYe6a"
+  },
+  {
+    "id": 1006,
+    "phoneNumber": "6000000000",
+    "username": "devansh",
+    "password": "$2b$10$JE/PWWvwrxBGllaswjPn.ORuizefRvvckWLRY.XpwgInjUWJq2CfO"
+  },
+  {
+    "id": 1007,
+    "phoneNumber": "6000000005",
+    "username": "lalababu",
+    "password": "$2b$10$KGZ.J/.wNp/NNdi1GUDKMuhflpC2r2sgUNgeUNvXZfQeRjXBEFQTe"
+  },
+  {
+    "id": 1008,
+    "phoneNumber": "6000000001",
+    "username": "pathak1",
+    "password": "$2b$10$7Pqzn19VnkZyu.zPrQF5tuOoMZmn7r9Jm8uxRAob1P0ElWpbW0oVm"
+  },
+  {
+    "id": 1009,
+    "phoneNumber": "6000000023",
+    "username": "pathak2",
+    "password": "$2b$10$8tZh6xGODD1PhaWV7sff9e2oyXDTDnuxGpXbpAy7h0uOii2SW7pHa"
+  },
+  {
+    "id": 1010,
+    "phoneNumber": "6000000039",
+    "username": "pathak3",
+    "password": "$2b$10$MX5GutY8c9OVZvAkCSsaLe7LjvmZ0XRPqsukHW/giCLTj.Hs6n/bC"
+  },
+  {
+    "id": 1011,
+    "phoneNumber": "6000000000",
+    "username": "testuser1",
+    "password": "$2b$10$h3y1T2ODhXxYPucn0N/pCedhJ27EPuODZs/WfJDjpvYW/Hz.0Yi/q"
+  },
+  {
+    "id": 1012,
+    "phoneNumber": "8765456788",
+    "username": "testuser2",
+    "password": "$2b$10$GnIrgJrt7GUcBwd56YrWgOrfW8HihyDAylitp/16kt4fi8Oqj5kfu"
+  },
+  {
+    "id": 1013,
+    "phoneNumber": "8976545622",
+    "username": "testuser3",
+    "password": "$2b$10$ChkqaeuEZe7GNoxse8fDsOly4fRxximW/8FtzWv3DyWqrjyIfQivm"
+  },
+  {
+    "id": 1014,
+    "phoneNumber": "9876543223",
+    "username": "testuser4",
+    "password": "$2b$10$P7q23YOw.dWruIhyUhUZJeeDxkQfSrMBjkirM.x.r2Jlp9XCcRzDO"
+  },
+  {
+    "id": 1015,
+    "phoneNumber": "8765432332",
+    "username": "testuser5",
+    "password": "$2b$10$BLuA0/i8NTu35aSX5PUldO0q4jagDCKDjyoubWvXZ3jQCe19ow1HG"
+  },
+  {
+    "id": 1016,
+    "phoneNumber": "8543245444",
+    "username": "pratima",
+    "password": "$2b$10$8PLxNuUP0.Vv7LEK/onMEeFNnlO7Zp7Y.MN7JiCrO/T4gM9AJW/2q"
+  },
+  {
+    "id": 1017,
+    "phoneNumber": "8543245444",
+    "username": "prateek",
+    "password": "$2b$10$9sMNFnvlyD0x/W1YkCxdwOp/Teq7DEKvfpHKwSDcPab9kLCMSaime"
+  }
+]
