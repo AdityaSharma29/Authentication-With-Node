@@ -44,6 +44,7 @@ app.post('/validate',(request,response) =>{
         }
     })
 })
+
 app.post('/insert',(req,res) => {
     const username = req.body.user;
     let password = req.body.pass;
@@ -60,7 +61,7 @@ app.post('/insert',(req,res) => {
                     temp.push(newUser);
                     json = JSON.stringify(temp,null,2);
                     fs.writeFile('./assets/users/data.json', json,'utf8',(err) => {
-                        if(err) throw err; 
+                        if(err) throw err
                         else {
                             console.log({statusCode : 200,message : `${username} registered successfully !!`,information : newUser });
                             res.render('success');
@@ -68,6 +69,7 @@ app.post('/insert',(req,res) => {
                     })
                 }
             })
+
         }
     })
 })
@@ -75,3 +77,4 @@ app.post('/insert',(req,res) => {
 app.listen(3000,() => {
     console.log("Running :)");
 })
+
